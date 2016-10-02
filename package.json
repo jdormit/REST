@@ -1,0 +1,23 @@
+{
+  "name": "REST",
+  "version": "0.0.0",
+  "description": "Create RESTful APIs with Express and Mongoose in just a few lines of code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdormit/REST.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jdormit/REST/issues"
+  },
+  "homepage": "https://github.com/jdormit/REST#readme",
+  "dependencies": {
+    "multer": "^1.2.0"
+  }
+}
